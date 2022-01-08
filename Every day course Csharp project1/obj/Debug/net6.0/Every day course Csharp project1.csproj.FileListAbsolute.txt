@@ -1,0 +1,15 @@
+D:\GIT\C#everyday\Every day course Csharp project1\bin\Debug\net6.0\Every day course Csharp project1.exe
+D:\GIT\C#everyday\Every day course Csharp project1\bin\Debug\net6.0\Every day course Csharp project1.deps.json
+D:\GIT\C#everyday\Every day course Csharp project1\bin\Debug\net6.0\Every day course Csharp project1.runtimeconfig.json
+D:\GIT\C#everyday\Every day course Csharp project1\bin\Debug\net6.0\Every day course Csharp project1.dll
+D:\GIT\C#everyday\Every day course Csharp project1\bin\Debug\net6.0\ref\Every day course Csharp project1.dll
+D:\GIT\C#everyday\Every day course Csharp project1\bin\Debug\net6.0\Every day course Csharp project1.pdb
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.csproj.AssemblyReference.cache
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.AssemblyInfoInputs.cache
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.AssemblyInfo.cs
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.csproj.CoreCompileInputs.cache
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.dll
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\ref\Every day course Csharp project1.dll
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.pdb
+D:\GIT\C#everyday\Every day course Csharp project1\obj\Debug\net6.0\Every day course Csharp project1.genruntimeconfig.cache
