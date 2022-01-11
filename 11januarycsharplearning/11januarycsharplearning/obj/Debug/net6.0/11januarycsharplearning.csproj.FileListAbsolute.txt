@@ -1,0 +1,15 @@
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\bin\Debug\net6.0\11januarycsharplearning.exe
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\bin\Debug\net6.0\11januarycsharplearning.deps.json
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\bin\Debug\net6.0\11januarycsharplearning.runtimeconfig.json
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\bin\Debug\net6.0\11januarycsharplearning.dll
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\bin\Debug\net6.0\ref\11januarycsharplearning.dll
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\bin\Debug\net6.0\11januarycsharplearning.pdb
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.csproj.AssemblyReference.cache
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.AssemblyInfoInputs.cache
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.AssemblyInfo.cs
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.csproj.CoreCompileInputs.cache
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.dll
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\ref\11januarycsharplearning.dll
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.pdb
+D:\GIT\C#everyday\11januarycsharplearning\11januarycsharplearning\obj\Debug\net6.0\11januarycsharplearning.genruntimeconfig.cache
