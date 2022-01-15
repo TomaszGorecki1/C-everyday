@@ -1,0 +1,15 @@
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.AssemblyReference.cache
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.AssemblyInfoInputs.cache
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.AssemblyInfo.cs
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.csproj.CoreCompileInputs.cache
+D:\GIT\C#everyday\PracaDomowa\bin\Debug\net6.0\PracaDomowa.exe
+D:\GIT\C#everyday\PracaDomowa\bin\Debug\net6.0\PracaDomowa.deps.json
+D:\GIT\C#everyday\PracaDomowa\bin\Debug\net6.0\PracaDomowa.runtimeconfig.json
+D:\GIT\C#everyday\PracaDomowa\bin\Debug\net6.0\PracaDomowa.dll
+D:\GIT\C#everyday\PracaDomowa\bin\Debug\net6.0\ref\PracaDomowa.dll
+D:\GIT\C#everyday\PracaDomowa\bin\Debug\net6.0\PracaDomowa.pdb
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.dll
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\ref\PracaDomowa.dll
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.pdb
+D:\GIT\C#everyday\PracaDomowa\obj\Debug\net6.0\PracaDomowa.genruntimeconfig.cache

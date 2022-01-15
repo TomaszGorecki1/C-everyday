@@ -10,11 +10,10 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            int[] array1 = new int[100];
-            int[] array2 = new int[100];
+            double[] array1 = new double[100];
+            double[] array2 = new double[100];
             double sumatmp = 0;
-            double suma = 0;
-            int sumaWagi = 0;
+            double suma = 0, sumaWagi = 0; 
             double srednia = 0;
              int howmanygrades;
             Console.Write("Enter a number of grades you have got:");
