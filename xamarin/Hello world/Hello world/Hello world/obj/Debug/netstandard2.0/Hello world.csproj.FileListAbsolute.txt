@@ -1,0 +1,15 @@
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\bin\Debug\netstandard2.0\Hello world.deps.json
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\bin\Debug\netstandard2.0\Hello world.dll
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\bin\Debug\netstandard2.0\ref\Hello world.dll
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\bin\Debug\netstandard2.0\Hello world.pdb
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\Hello world.csproj.AssemblyReference.cache
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\Hello world.AssemblyInfoInputs.cache
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\Hello world.AssemblyInfo.cs
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\Hello world.csproj.CoreCompileInputs.cache
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\Hello world.dll
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\ref\Hello world.dll
+D:\GIT\C#everyday\xamarin\Hello world\Hello world\Hello world\obj\Debug\netstandard2.0\Hello world.pdb
