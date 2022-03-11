@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "933c18d3-0cf5-4616-96c6-bb5bea63d01f": {
+      "ProjectGuid": "933c18d3-0cf5-4616-96c6-bb5bea63d01f",
+      "DisplayName": "Login page",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
