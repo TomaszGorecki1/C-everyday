@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "INJxWHNrzX4x6x+krCdERMp61dNoFF8+UU5LGBVXPo27jsouBROP3fjlyfrt7S30CRsaPccOoxZ/Et/oCOeCyg==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\C#everyday\\xamarin\\Login page\\Login page\\Login page.iOS\\Login page.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomig\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tomig\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -5,7 +5,12 @@
       "ProjectGuid": "f4653768-4fd7-4356-a594-9ea3fc51c71b",
       "DisplayName": "Hello world",
       "ColorIndex": 0
+    },
+    "95dedd29-0298-4479-b075-96e0f3b81b58": {
+      "ProjectGuid": "95dedd29-0298-4479-b075-96e0f3b81b58",
+      "DisplayName": "Hello world.Android",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
