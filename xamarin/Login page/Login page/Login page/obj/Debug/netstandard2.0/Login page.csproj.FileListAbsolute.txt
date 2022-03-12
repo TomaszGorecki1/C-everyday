@@ -14,3 +14,6 @@ D:\GIT\C#everyday\xamarin\Login page\Login page\Login page\obj\Debug\netstandard
 D:\GIT\C#everyday\xamarin\Login page\Login page\Login page\obj\Debug\netstandard2.0\ref\Login page.dll
 D:\GIT\C#everyday\xamarin\Login page\Login page\Login page\obj\Debug\netstandard2.0\Login page.pdb
 D:\GIT\C#everyday\xamarin\Login page\Login page\Login page\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+D:\GIT\C#everyday\xamarin\Login page\Login page\Login page\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+D:\GIT\C#everyday\xamarin\Login page\Login page\Login page\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+D:\GIT\C#everyday\xamarin\Login page\Login page\Login page\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
