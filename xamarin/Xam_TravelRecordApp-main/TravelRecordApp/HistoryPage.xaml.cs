@@ -1,6 +1,6 @@
-﻿using SQLite;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using SQLite;
 using TravelRecordApp.Model;
 using Xamarin.Forms;
 
@@ -17,20 +17,22 @@ namespace TravelRecordApp
         {
             base.OnAppearing();
 
-            using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
-            { 
+            using (SQLiteConnection conn = new SQLiteConnection(App.databaseLocation))
+            {
                 conn.CreateTable<Post>();
                 var posts = conn.Table<Post>().ToList();
-                postListView.ItemsSource = posts;  
+
+                postListView.ItemsSource = posts;
             }
         }
 
-        void Handle_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        void postListView_ItemSelected(System.Object sender, Xamarin.Forms.SelectedItemChangedEventArgs e)
         {
             var selectedPost = postListView.SelectedItem as Post;
+
             if(selectedPost != null)
             {
-                Navigation.PushAsync(new PostDetail(selectedPost));
+                Navigation.PushAsync(new TravelDetailsPage(selectedPost));
             }
         }
     }

@@ -1,17 +1,11 @@
-﻿using SQLite;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using SQLite;
 using TravelRecordApp.Model;
-
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace TravelRecordApp
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class NewTravelPage : ContentPage
     {
         public NewTravelPage()
@@ -19,30 +13,26 @@ namespace TravelRecordApp
             InitializeComponent();
         }
 
-        private void ToolbarItem_Clicked(object sender, EventArgs e)
+        private void Save_Clicked(object sender, EventArgs e)
         {
-            Post post = new Post()
+            Post newPost = new Post()
             {
                 Experience = experienceEntry.Text
             };
 
-            using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
-            { 
+            using (SQLiteConnection conn = new SQLiteConnection(App.databaseLocation))
+            {
                 conn.CreateTable<Post>();
-            int rows = conn.Insert(post);
+                int rowsAffected = conn.Insert(newPost);
 
-                if (rows > 0)
+                if (rowsAffected > 0)
                 {
-                    DisplayAlert("Success", "Experience succesfully inserted", "Ok");
+                    experienceEntry.Text = string.Empty;
+                    DisplayAlert("Success", "Post saved", "Ok");
                 }
                 else
-                {
-                    DisplayAlert("Failure", "Experience failed to be inserted", "Ok");
-                }
+                    DisplayAlert("Failure", "Post was not saved, please try again", "Ok");  
             }
-
-            
-
         }
     }
 }

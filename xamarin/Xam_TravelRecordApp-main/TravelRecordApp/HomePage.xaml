@@ -9,6 +9,7 @@
         <ToolbarItem Text="Add"
                      Clicked="ToolbarItem_Clicked"/>
     </TabbedPage.ToolbarItems>
+
     <local:HistoryPage Title="History"/>
     <local:MapPage Title="Map"/>
     <local:ProfilePage Title="Profile"/>

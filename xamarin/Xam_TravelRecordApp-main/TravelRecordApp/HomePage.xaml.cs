@@ -12,7 +12,7 @@ namespace TravelRecordApp
             InitializeComponent();
         }
 
-        private void ToolbarItem_Clicked(object sender, EventArgs e)
+        void ToolbarItem_Clicked(System.Object sender, System.EventArgs e)
         {
             Navigation.PushAsync(new NewTravelPage());
         }
